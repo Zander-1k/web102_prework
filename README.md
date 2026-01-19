@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Seamonsters*
 
-Submitted by: **Your Name Here**
+Submitted by: **Alexander Akyian**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Seamonsters** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -35,7 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Building this app was a great learning experience in Git and JavaScript. The main challenges were setting up my Git identity to push code and managing the different branches (main vs. master) to make my work visible on GitHub. I also learned to use array destructuring to calculate the project's secret key and fixed image file paths so the game cards displayed correctly on the live site.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
